@@ -1,1 +1,1 @@
-# Effects-COVID-19-Lockdown-on-US-China-Trade-and-US-Firms
+This repository contains the files for the second part of my Ph.D. dissertation, which involves examining the impacts of China's COVID-19 lockdown on both US-China bilateral trade and US firms. I had the opportunity to present this research paper at the 2023 ISDSA conference, which centered around the theme of Applied Data Science.
